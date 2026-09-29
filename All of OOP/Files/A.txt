@@ -1,0 +1,4 @@
+Hello I am Writing Into A file
+Name: Adel,Id:1,Cgpa:3.89
+Name: Mahamud,Id:2,Cgpa:3.9
+Name: Sayadi,Id:3,Cgpa:4.0
